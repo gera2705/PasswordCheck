@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">PasswordCheck</string>
+    <string name="login_button">Вход</string>
+    <string name="user_name_hint">Логин</string>
+    <string name="password_hint">Пароль</string>
+    <string name="right_login">Вы успешно вошли в с свою учетную запись!</string>
+    <string name="wrong_login">Неправильные логин или пароль!</string>
+    <string name="author_name">Выполнил: Колосов Вячеслав</string>
+</resources>
