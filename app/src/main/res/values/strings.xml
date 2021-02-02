@@ -6,4 +6,6 @@
     <string name="right_login">Вы успешно вошли в с свою учетную запись!</string>
     <string name="wrong_login">Неправильные логин или пароль!</string>
     <string name="author_name">Выполнил: Колосов Вячеслав</string>
+    <string name="registration_view">Регистрация</string>
+    <string name="registration_toast">Регистрация выполнена</string>
 </resources>
